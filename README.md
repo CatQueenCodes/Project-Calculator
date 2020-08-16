@@ -1,3 +1,3 @@
 https://www.theodinproject.com/lessons/calculator#introduction
 
-This is the Odin Project calculator project. So far the JS for it has taken me 21 hours. CSS took 
+This is the Odin Project calculator project. So far the JS for it has taken me about 22 hours. CSS took about about 8h
